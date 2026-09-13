@@ -1,0 +1,62 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Build output
+x64/
+Win32/
+Debug/
+Release/
+**/x64/
+**/Debug/
+**/Release/
+
+# Intermediate files
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+*.ipch
+*.tlog
+*.log
+*.lastbuildstate
+*.unsuccessfulbuild
+*.FileListAbsolute.txt
+*.CppClean.log
+*.recipe
+*.exe.recipe
+*.Build.CppClean.log
+
+# Driver-specific build artifacts
+*.sys
+*.cat
+*.inf.bak
+DrvInst.log
+
+# Certificates and keys - never commit these
+*.pfx
+*.cer
+*.p12
+*.pvk
+*.spc
+
+# Precompiled headers
+*.pch
+*.gch
+
+# NuGet
+packages/
+*.nupkg
+
+# vcpkg
+vcpkg_installed/
