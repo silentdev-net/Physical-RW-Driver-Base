@@ -53,6 +53,6 @@ Reboot, then load the driver with sc or OSR Driver Loader. The driver creates th
 
 ## Requirements
 
-- Windows 10 x64, build 16299 or later (for DestinationDir 13 support in the INF)
+- Windows 10 x64, build 16299 or later (for DestinationDir 13 support in the INF) !!!WINDOWS 11 REMAINS UNTESTED!!!
 - Visual Studio 2022 with the Windows Driver Kit installed
 - For the client: any standard MSVC toolchain, no special dependencies
